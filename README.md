@@ -29,4 +29,4 @@ Pop_mean: Average population density,	Population density in mean population per 
 Fl: Forest law class,	4 discrete classes, where 0=no information, 1=red zone, 2=yellow zone and 3=green zone
 Corn, soy: Crop type class,	Initially 16 discrete classes; was transformed into two binary variables: Corn (1 if crop type class was 0 or 3, 0 if not) and soy (1 if crop type class was 1 or 2, 0 if not); only in agricultural datasets
 Silage: Silage presence,	Binary variable in datasets 2 and 3; 1 for silage bag observations and 0 for background points
-Area: Area, Continuous area variable in sqm, due to the data source in steps of 100; only in datasets 4 and 5
+Area: Area, Continuous area variable in sqm, due to the data source in steps of 100; only in datasets 4 and 5.
